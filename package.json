@@ -1,0 +1,10 @@
+{
+	"name": "yet-another-community-suite",
+	"private": true,
+	"version": "0.0.0+independent",
+	"description": "This package.json is used internally for Lerna integration",
+	"devDependencies": {
+		"lerna": "^2.0.0"
+	},
+	"license": "MIT"
+}
