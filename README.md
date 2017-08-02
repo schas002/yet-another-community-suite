@@ -1,6 +1,6 @@
 # yet-another-community-suite
 
-![Powered by love... and awoo](https://img.shields.io/badge/powered_by_love...-and_awoo-ff69b4.svg)
+![Powered by love... and awoo](https://img.shields.io/badge/powered_by_love...-and_awoo-ff69b4.svg) [![Gitter](https://img.shields.io/gitter/room/schas002/yet-another-community-suite.svg)](https://gitter.im/schas002/yet-another-community-suite)
 
 > Yet another community suite
 
