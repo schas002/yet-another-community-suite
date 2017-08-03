@@ -1,0 +1,13 @@
+{
+	"name": "yacs-forum",
+	"private": true,
+	"version": "0.0.0",
+	"description": "Yet another forum",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.15.3"
+	},
+	"license": "MIT"
+}
